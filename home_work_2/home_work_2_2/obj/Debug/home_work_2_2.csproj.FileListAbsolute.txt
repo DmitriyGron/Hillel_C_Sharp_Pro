@@ -1,0 +1,8 @@
+D:\Projects\С#\home_work_2\home_work_2_2\bin\Debug\home_work_2_2.exe.config
+D:\Projects\С#\home_work_2\home_work_2_2\bin\Debug\home_work_2_2.exe
+D:\Projects\С#\home_work_2\home_work_2_2\bin\Debug\home_work_2_2.pdb
+D:\Projects\С#\home_work_2\home_work_2_2\obj\Debug\home_work_2_2.csproj.AssemblyReference.cache
+D:\Projects\С#\home_work_2\home_work_2_2\obj\Debug\home_work_2_2.csproj.SuggestedBindingRedirects.cache
+D:\Projects\С#\home_work_2\home_work_2_2\obj\Debug\home_work_2_2.csproj.CoreCompileInputs.cache
+D:\Projects\С#\home_work_2\home_work_2_2\obj\Debug\home_work_2_2.exe
+D:\Projects\С#\home_work_2\home_work_2_2\obj\Debug\home_work_2_2.pdb
